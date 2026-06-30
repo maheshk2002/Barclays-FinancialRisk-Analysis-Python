@@ -79,7 +79,7 @@ Applying a dual-axis Risk Matrix and an AUM-by-FICO distribution mapping success
 **Mahesh Katula**
 *Data Analyst & Investigator*
 
-Leveraging a specialized background in high-stakes customer investigations and concession abuse mitigation at Amazon, combined with rigorous analytical experience as a Data Journalist at The Supply Chainer. I specialize in building robust data models that protect corporate liquidity, automate compliance workflows, and drive operational efficiency using SQL, Python, and advanced EDA techniques.
+Leveraging a specialized background in high-stakes customer investigations and concession abuse mitigation at Amazon. I specialize in building robust data models that protect corporate liquidity, automate compliance workflows, and drive operational efficiency using SQL, Python, Statistics, and advanced EDA techniques.
 
 * 💼 [Connect on LinkedIn](https://www.linkedin.com/in/mahesh-katula-mk777)
 * 📧 Reach out via Email *(maheshtavinder2002@gmail.com)*
