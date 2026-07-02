@@ -14,21 +14,6 @@
 
 <hr>
 
-## 🎥 Executive Video Presentation
-
-> **Actionable insights in under 5 minutes.** Watch the executive briefing where I break down the statistical methodology, explain the visual risk topology, and provide data-backed recommendations for AML compliance and targeted marketing teams.
-
-<p align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
-    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle-play.svg" width="80" alt="Play Video">
-    <br>
-    <b>▶️ Click here to watch the full project breakdown and strategic insights</b>
-  </a>
-</p>
-
-*(Note to viewer: If the video above does not load, you can view the presentation directly [via this link](YOUR_VIDEO_LINK_HERE).)*
-
-<hr>
 
 ## 📌 Executive Summary
 
